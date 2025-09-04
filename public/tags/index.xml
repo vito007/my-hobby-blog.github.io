@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My hobby blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on My hobby blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>viktor.kurilla@gmail.com (Viktor Kurilla)</managingEditor>
+    <webMaster>viktor.kurilla@gmail.com (Viktor Kurilla)</webMaster>
+    <copyright>© 2025 Viktor Kurilla</copyright>
+    <lastBuildDate>Fri, 05 Sep 2025 15:30:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloudflare</title>
+      <link>http://localhost:1313/tags/cloudflare/</link>
+      <pubDate>Fri, 05 Sep 2025 15:30:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/cloudflare/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Fri, 05 Sep 2025 15:30:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Odroid</title>
+      <link>http://localhost:1313/tags/odroid/</link>
+      <pubDate>Fri, 05 Sep 2025 15:30:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/odroid/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Omv</title>
+      <link>http://localhost:1313/tags/omv/</link>
+      <pubDate>Fri, 05 Sep 2025 15:30:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/omv/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Self-Hosting</title>
+      <link>http://localhost:1313/tags/self-hosting/</link>
+      <pubDate>Fri, 05 Sep 2025 15:30:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/self-hosting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tunnel</title>
+      <link>http://localhost:1313/tags/tunnel/</link>
+      <pubDate>Fri, 05 Sep 2025 15:30:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/tunnel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programovanie</title>
+      <link>http://localhost:1313/tags/programovanie/</link>
+      <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/programovanie/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Verzovanie</title>
+      <link>http://localhost:1313/tags/verzovanie/</link>
+      <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/verzovanie/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

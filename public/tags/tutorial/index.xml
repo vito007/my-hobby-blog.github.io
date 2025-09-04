@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on My hobby blog</title>
+    <link>http://localhost:1313/tags/tutorial/</link>
+    <description>Recent content in Tutorial on My hobby blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>viktor.kurilla@gmail.com (Viktor Kurilla)</managingEditor>
+    <webMaster>viktor.kurilla@gmail.com (Viktor Kurilla)</webMaster>
+    <copyright>© 2025 Viktor Kurilla</copyright>
+    <lastBuildDate>Thu, 04 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Git pre začiatočníkov - Kompletný sprievodca</title>
+      <link>http://localhost:1313/posts/git/zaklady/</link>
+      <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/git/zaklady/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

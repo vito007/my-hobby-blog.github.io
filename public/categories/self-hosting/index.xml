@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-Hosting on My hobby blog</title>
+    <link>http://localhost:1313/categories/self-hosting/</link>
+    <description>Recent content in Self-Hosting on My hobby blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>viktor.kurilla@gmail.com (Viktor Kurilla)</managingEditor>
+    <webMaster>viktor.kurilla@gmail.com (Viktor Kurilla)</webMaster>
+    <copyright>© 2025 Viktor Kurilla</copyright>
+    <lastBuildDate>Fri, 05 Sep 2025 15:30:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/self-hosting/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloudflare Tunnel na OpenMediaVault 6, prístup bez verejnej IP</title>
+      <link>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</link>
+      <pubDate>Fri, 05 Sep 2025 15:30:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</guid>
+      <description>&lt;p&gt;Použité technológie&lt;/p&gt;
+&lt;img src=&#34;https://cf-assets.www.cloudflare.com/dzlvafdwdttg/69wNwfiY5mFmgpd9eQFW6j/d5131c08085a977aa70f19e7aada3fa9/1pixel-down__1_.svg&#34;  width=&#34;150&#34; style=display:inline;padding:10px;&gt;
+&lt;img src=&#34;https://www.openmediavault.org/wp-content/uploads/2016/09/header_logo3.png&#34; width=&#34;150&#34; style=display:inline;padding:10px;&gt;
+&lt;img src=&#34;https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg&#34; width=&#34;150&#34; style=display:inline;padding:10px;&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Úvod 
+    &lt;div id=&#34;úvod&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%c3%bavod&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Cloudflare Tunnel je skvelé riešenie pre bezpečný prístup k vašemu OpenMediaVault serveru bez potreby vlastnenia verejnej ip adresy. V tomto návode si ukážeme, ako nastaviť Cloudflare Tunnel na OMV6 bežiacom na Odroid HC4 pomocou Docker kontajnera.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
