@@ -6,16 +6,16 @@
     <description>Recent content in Docker on My hobby blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>viktor.kurilla@gmail.com (Viktor Kurilla)</managingEditor>
-    <webMaster>viktor.kurilla@gmail.com (Viktor Kurilla)</webMaster>
-    <copyright>© 2025 Viktor Kurilla</copyright>
+    <managingEditor>viktor.kurilla@gmail.com (viku)</managingEditor>
+    <webMaster>viktor.kurilla@gmail.com (viku)</webMaster>
+    <copyright>© 2025 viku</copyright>
     <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Docker - Kompletný sprievodca pre začiatočníkov</title>
       <link>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <author>viktor.kurilla@gmail.com (viku)</author>
       <guid>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</guid>
       <description></description>
       
@@ -25,7 +25,7 @@
       <title>Cloudflare Tunnel na OpenMediaVault 6, prístup bez verejnej IP</title>
       <link>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</link>
       <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
-      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <author>viktor.kurilla@gmail.com (viku)</author>
       <guid>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</guid>
       <description>&lt;p&gt;Použité technológie&lt;/p&gt;
 &lt;img src=&#34;https://cf-assets.www.cloudflare.com/dzlvafdwdttg/69wNwfiY5mFmgpd9eQFW6j/d5131c08085a977aa70f19e7aada3fa9/1pixel-down__1_.svg&#34;  width=&#34;150&#34; style=display:inline;padding:10px;&gt;
