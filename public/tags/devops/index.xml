@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops on My hobby blog</title>
+    <link>http://localhost:1313/tags/devops/</link>
+    <description>Recent content in Devops on My hobby blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>viktor.kurilla@gmail.com (Viktor Kurilla)</managingEditor>
+    <webMaster>viktor.kurilla@gmail.com (Viktor Kurilla)</webMaster>
+    <copyright>© 2025 Viktor Kurilla</copyright>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docker - Kompletný sprievodca pre začiatočníkov</title>
+      <link>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes - Kompletný sprievodca orchestráciou kontajnerov</title>
+      <link>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

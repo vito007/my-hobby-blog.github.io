@@ -9,12 +9,42 @@
     <managingEditor>viktor.kurilla@gmail.com (Viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (Viktor Kurilla)</webMaster>
     <copyright>© 2025 Viktor Kurilla</copyright>
-    <lastBuildDate>Fri, 05 Sep 2025 15:30:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Git pre začiatočníkov - Kompletný sprievodca</title>
+      <link>http://localhost:1313/posts/git/zaklady/</link>
+      <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/git/zaklady/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker - Kompletný sprievodca pre začiatočníkov</title>
+      <link>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes - Kompletný sprievodca orchestráciou kontajnerov</title>
+      <link>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Cloudflare Tunnel na OpenMediaVault 6, prístup bez verejnej IP</title>
       <link>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</link>
-      <pubDate>Fri, 05 Sep 2025 15:30:00 +0200</pubDate>
+      <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
       <guid>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</guid>
       <description>&lt;p&gt;Použité technológie&lt;/p&gt;
@@ -32,16 +62,6 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Cloudflare Tunnel je skvelé riešenie pre bezpečný prístup k vašemu OpenMediaVault serveru bez potreby vlastnenia verejnej ip adresy. V tomto návode si ukážeme, ako nastaviť Cloudflare Tunnel na OMV6 bežiacom na Odroid HC4 pomocou Docker kontajnera.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Git pre začiatočníkov - Kompletný sprievodca</title>
-      <link>http://localhost:1313/posts/git/zaklady/</link>
-      <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
-      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
-      <guid>http://localhost:1313/posts/git/zaklady/</guid>
-      <description></description>
       
     </item>
     

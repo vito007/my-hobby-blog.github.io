@@ -21,5 +21,15 @@
       
     </item>
     
+    <item>
+      <title>Docker - Kompletný sprievodca pre začiatočníkov</title>
+      <link>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>viktor.kurilla@gmail.com (Viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

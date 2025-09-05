@@ -137,9 +137,10 @@ git merge nova-funkcia
 
 ## Krok 11: Pripojenie na GitHub/vzdialené úložisko
 
+najprv na stranke https://github.com/settings/tokens vygenerujem token ktory pouzijem v prikaze
 ```bash
 # Pripoj vzdialené úložisko
-git remote add origin https://github.com/tvoje-meno/moj-projekt.git
+git remote set-url origin https://TOKEN@github.com/USERNAME/REPO/
 
 # Nahraj kód na GitHub
 git push -u origin main
@@ -228,3 +229,4 @@ Pamätaj si: Git je ako záchranná sieť pre tvoj kód. Čím viac ho používa
 ---
 
 *Tento tutoriál ti poskytol základy práce s Gitom. Pre pokročilejšie témy odporúčam oficiálnu dokumentáciu na [git-scm.com](https://git-scm.com/doc).*
+*Návod vytvoreny pomocou [AI](https://claude.ai/)*

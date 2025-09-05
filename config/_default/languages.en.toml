@@ -17,10 +17,10 @@ title = "My hobby blog"
  [params.author]
    name = "Viktor Kurilla"
    email = "viktor.kurilla@gmail.com"
-   image = "img/face.jpg"
+   image = "img/face_simps_style.jpeg"
    imageQuality = 96
    headline = "I'm only human"
-#   bio = "A little bit about you"
+   bio = "A little bit about you"
    links = [
      { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

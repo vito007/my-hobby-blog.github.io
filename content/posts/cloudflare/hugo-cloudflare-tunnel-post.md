@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Tunnel na OpenMediaVault 6, prístup bez verejnej IP"
-date: 2025-09-05T15:30:00+02:00
+date: 2024-10-05T15:30:00+02:00
 draft: false
 tags: ["cloudflare", "omv", "docker", "tunnel", "self-hosting", "odroid"]
 categories: ["Návody", "Self-hosting"]
