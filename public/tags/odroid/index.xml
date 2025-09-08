@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Odroid on My hobby blog</title>
-    <link>http://localhost:1313/tags/odroid/</link>
+    <link>http://localhost:45419/tags/odroid/</link>
     <description>Recent content in Odroid on My hobby blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
     <copyright>© 2025 viktor Kurilla</copyright>
-    <lastBuildDate>Sat, 05 Oct 2024 15:30:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/odroid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Oct 2024 15:30:00 +0200</lastBuildDate><atom:link href="http://localhost:45419/tags/odroid/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cloudflare Tunnel na OpenMediaVault 6, prístup bez verejnej IP</title>
-      <link>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</link>
+      <link>http://localhost:45419/posts/cloudflare/hugo-cloudflare-tunnel-post/</link>
       <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</guid>
+      <guid>http://localhost:45419/posts/cloudflare/hugo-cloudflare-tunnel-post/</guid>
       <description>&lt;p&gt;Použité technológie&lt;/p&gt;
 &lt;img src=&#34;https://cf-assets.www.cloudflare.com/dzlvafdwdttg/69wNwfiY5mFmgpd9eQFW6j/d5131c08085a977aa70f19e7aada3fa9/1pixel-down__1_.svg&#34;  width=&#34;150&#34; style=display:inline;padding:10px;&gt;
 &lt;img src=&#34;https://www.openmediavault.org/wp-content/uploads/2016/09/header_logo3.png&#34; width=&#34;150&#34; style=display:inline;padding:10px;&gt;

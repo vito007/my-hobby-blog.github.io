@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on My hobby blog</title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>http://localhost:45419/tags/blog/</link>
     <description>Recent content in Blog on My hobby blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
     <copyright>© 2025 viktor Kurilla</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:45419/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ako som si vytvoril lacný blog za 6,89 EUR ročne</title>
-      <link>http://localhost:1313/posts/ako_som_si_vytvoril_blog/</link>
+      <link>http://localhost:45419/posts/ako_som_si_vytvoril_blog/</link>
       <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/posts/ako_som_si_vytvoril_blog/</guid>
+      <guid>http://localhost:45419/posts/ako_som_si_vytvoril_blog/</guid>
       <description>Kompletný návod ako si vytvoriť moderný blog za cenu len jednej domény ročne pomocou Hugo, Azure Static Web Apps a Cloudflare.</description>
       
     </item>

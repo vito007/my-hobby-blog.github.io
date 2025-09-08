@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps on My hobby blog</title>
-    <link>http://localhost:1313/categories/devops/</link>
+    <link>http://localhost:45419/categories/devops/</link>
     <description>Recent content in DevOps on My hobby blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
     <copyright>© 2025 viktor Kurilla</copyright>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45419/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Docker - Kompletný sprievodca pre začiatočníkov</title>
-      <link>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</link>
+      <link>http://localhost:45419/posts/docker/docker-zaklady-sprievodca/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</guid>
+      <guid>http://localhost:45419/posts/docker/docker-zaklady-sprievodca/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kubernetes - Kompletný sprievodca orchestráciou kontajnerov</title>
-      <link>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</link>
+      <link>http://localhost:45419/posts/kubernetes/kubernetes-orchestracia-sprievodca/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</guid>
+      <guid>http://localhost:45419/posts/kubernetes/kubernetes-orchestracia-sprievodca/</guid>
       <description></description>
       
     </item>

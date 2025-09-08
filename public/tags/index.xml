@@ -2,211 +2,211 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My hobby blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:45419/tags/</link>
     <description>Recent content in Tags on My hobby blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
     <copyright>© 2025 viktor Kurilla</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:45419/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Azure</title>
-      <link>http://localhost:1313/tags/azure/</link>
+      <link>http://localhost:45419/tags/azure/</link>
       <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/azure/</guid>
+      <guid>http://localhost:45419/tags/azure/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
+      <link>http://localhost:45419/tags/blog/</link>
       <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/blog/</guid>
+      <guid>http://localhost:45419/tags/blog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cloudflare</title>
-      <link>http://localhost:1313/tags/cloudflare/</link>
+      <link>http://localhost:45419/tags/cloudflare/</link>
       <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/cloudflare/</guid>
+      <guid>http://localhost:45419/tags/cloudflare/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>http://localhost:45419/tags/hugo/</link>
       <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>http://localhost:45419/tags/hugo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Návod</title>
-      <link>http://localhost:1313/tags/n%C3%A1vod/</link>
+      <link>http://localhost:45419/tags/n%C3%A1vod/</link>
       <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/n%C3%A1vod/</guid>
+      <guid>http://localhost:45419/tags/n%C3%A1vod/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Git</title>
-      <link>http://localhost:1313/tags/git/</link>
+      <link>http://localhost:45419/tags/git/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/git/</guid>
+      <guid>http://localhost:45419/tags/git/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Programovanie</title>
-      <link>http://localhost:1313/tags/programovanie/</link>
+      <link>http://localhost:45419/tags/programovanie/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/programovanie/</guid>
+      <guid>http://localhost:45419/tags/programovanie/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
+      <link>http://localhost:45419/tags/tutorial/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <guid>http://localhost:45419/tags/tutorial/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Verzovanie</title>
-      <link>http://localhost:1313/tags/verzovanie/</link>
+      <link>http://localhost:45419/tags/verzovanie/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/verzovanie/</guid>
+      <guid>http://localhost:45419/tags/verzovanie/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Devops</title>
-      <link>http://localhost:1313/tags/devops/</link>
+      <link>http://localhost:45419/tags/devops/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/devops/</guid>
+      <guid>http://localhost:45419/tags/devops/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>http://localhost:45419/tags/docker/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>http://localhost:45419/tags/docker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>K8s</title>
-      <link>http://localhost:1313/tags/k8s/</link>
+      <link>http://localhost:45419/tags/k8s/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/k8s/</guid>
+      <guid>http://localhost:45419/tags/k8s/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kontajnerizácia</title>
-      <link>http://localhost:1313/tags/kontajneriz%C3%A1cia/</link>
+      <link>http://localhost:45419/tags/kontajneriz%C3%A1cia/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/kontajneriz%C3%A1cia/</guid>
+      <guid>http://localhost:45419/tags/kontajneriz%C3%A1cia/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kontajnery</title>
-      <link>http://localhost:1313/tags/kontajnery/</link>
+      <link>http://localhost:45419/tags/kontajnery/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/kontajnery/</guid>
+      <guid>http://localhost:45419/tags/kontajnery/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>http://localhost:1313/tags/kubernetes/</link>
+      <link>http://localhost:45419/tags/kubernetes/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/kubernetes/</guid>
+      <guid>http://localhost:45419/tags/kubernetes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Orchestrácia</title>
-      <link>http://localhost:1313/tags/orchestr%C3%A1cia/</link>
+      <link>http://localhost:45419/tags/orchestr%C3%A1cia/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/orchestr%C3%A1cia/</guid>
+      <guid>http://localhost:45419/tags/orchestr%C3%A1cia/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Odroid</title>
-      <link>http://localhost:1313/tags/odroid/</link>
+      <link>http://localhost:45419/tags/odroid/</link>
       <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/odroid/</guid>
+      <guid>http://localhost:45419/tags/odroid/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Omv</title>
-      <link>http://localhost:1313/tags/omv/</link>
+      <link>http://localhost:45419/tags/omv/</link>
       <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/omv/</guid>
+      <guid>http://localhost:45419/tags/omv/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Self-Hosting</title>
-      <link>http://localhost:1313/tags/self-hosting/</link>
+      <link>http://localhost:45419/tags/self-hosting/</link>
       <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/self-hosting/</guid>
+      <guid>http://localhost:45419/tags/self-hosting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tunnel</title>
-      <link>http://localhost:1313/tags/tunnel/</link>
+      <link>http://localhost:45419/tags/tunnel/</link>
       <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/tunnel/</guid>
+      <guid>http://localhost:45419/tags/tunnel/</guid>
       <description></description>
       
     </item>

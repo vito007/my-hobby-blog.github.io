@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/ako_som_si_vytvoril_blog/</loc>
+    <loc>http://localhost:45419/posts/ako_som_si_vytvoril_blog/</loc>
     <lastmod>2025-09-08T10:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:45419/</loc>
     <lastmod>2025-09-08T10:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:45419/posts/</loc>
     <lastmod>2025-09-08T10:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/git/zaklady/</loc>
+    <loc>http://localhost:45419/posts/git/zaklady/</loc>
     <lastmod>2025-09-04T10:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</loc>
+    <loc>http://localhost:45419/posts/docker/docker-zaklady-sprievodca/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</loc>
+    <loc>http://localhost:45419/posts/kubernetes/kubernetes-orchestracia-sprievodca/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</loc>
+    <loc>http://localhost:45419/posts/cloudflare/hugo-cloudflare-tunnel-post/</loc>
     <lastmod>2024-10-05T15:30:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
