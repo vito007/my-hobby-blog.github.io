@@ -31,8 +31,8 @@ vždy ma odradili vysoké mesačné poplatky za hosting a komplikované nastaven
 ## Krok za krokom návod
 
 ### 1. Kúpa domény
-- Vyberte si registrátora domén (ja som použil [názov registrátora])
-- Zadajte požadované doménové meno a dokončite nákup
+- Vyberte si registrátora domén (ja som použil forpsi.sk)
+- Zadajte požadované doménové meno a dokončite nákup (meno mojej domeny je kuri11a.eu)
 - Získate prístupové údaje na správu DNS nastavení
 
 ### 2. Nastavenie Cloudflare
@@ -62,7 +62,7 @@ vždy ma odradili vysoké mesačné poplatky za hosting a komplikované nastaven
 ### 6. Konfigurácia Hugo
 - Otvorte `hugo.toml` a nastavte základné parametre:
   ```toml
-  baseURL = 'https://vasa-domena.sk'
+  baseURL = 'https://kuri11a.eu'
   languageCode = 'sk'
   title = 'Názov vášho blogu'
   theme = 'ananke'
@@ -81,6 +81,10 @@ vždy ma odradili vysoké mesačné poplatky za hosting a komplikované nastaven
 - Vytvorte CNAME záznam: `www` → `[váš-azure-url].azurestaticapps.net`
 - Vytvorte A záznam pre root doménu alebo CNAME alias
 - Nastavte SSL/TLS na "Full" v Cloudflare
+<br>pozn. nechcelo mi to fungovať (pri zapnutom proxy posielalo len ipv6 adresy,
+ po vypnuti to začalo fungovat správne už to posielalo správnu ipv4 adresu)
+
+
 
 ### 9. Písanie obsahu
 - Vytvorte nový príspevok: `hugo new posts/moj-prvy-prispevok.md`
