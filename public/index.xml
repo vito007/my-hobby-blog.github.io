@@ -9,15 +9,15 @@
     <managingEditor>viktor.kurilla@gmail.com (viku:-))</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viku:-))</webMaster>
     <copyright>© 2025 viku:-)</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 09:44:45 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Popis</title>
-      <link>http://localhost:1313/posts/popis/</link>
-      <pubDate>Mon, 08 Sep 2025 09:44:45 +0200</pubDate>
+      <title>Ako som si vytvoril lacný blog za 6,89 EUR ročne</title>
+      <link>http://localhost:1313/posts/ako_som_si_vytvoril_blog/</link>
+      <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viku:-))</author>
-      <guid>http://localhost:1313/posts/popis/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/ako_som_si_vytvoril_blog/</guid>
+      <description>Kompletný návod ako si vytvoriť moderný blog za cenu len jednej domény ročne pomocou Hugo, Azure Static Web Apps a Cloudflare.</description>
       
     </item>
     
