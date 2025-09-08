@@ -6,8 +6,17 @@ tags: ["blog", "hugo", "azure", "cloudflare", "návod"]
 categories: ["technológie", "web development"]
 summary: "Kompletný návod ako si vytvoriť moderný blog za cenu len jednej domény ročne pomocou Hugo, Azure Static Web Apps a Cloudflare."
 ---
+<p style="text-align:block;">Dlho som sa pohrával s myšlienkou vytvoriť si vlastný blog, ale 
+vždy ma odradili vysoké mesačné poplatky za hosting a komplikované nastavenia.
+ Chcel som niečo jednoduché, rýchle a hlavne lacné - ideálne zadarmo alebo za 
+ minimálne náklady. Po dlhšom bádaní som objavil kombináciu moderných technológií, 
+ ktoré mi umožnili vytvoriť profesionálny blog prakticky zadarmo. Tradičné hostingové
+  služby často stoja 5-15 EUR mesačne, čo je pre hobby blog neúmerne veľa. 
+  Rozhodol som sa preto hľadať alternatívy v cloudových službách, ktoré ponúkajú štedré free
+   tier plány. Moja filozofia bola jasná: minimálne náklady, maximálna funkcionalita a spoľahlivosť.
+    Po výskume som sa rozhodol pre kombináciu statického site generátora a cloudového hostingu.
+     Výsledok? Moderný, rýchly blog za cenu len jednej domény ročne.</p>
 
-Dlho som sa pohrával s myšlienkou vytvoriť si vlastný blog, ale vždy ma odradili vysoké mesačné poplatky za hosting a komplikované nastavenia. Chcel som niečo jednoduché, rýchle a hlavne lacné - ideálne zadarmo alebo za minimálne náklady. Po dlhšom bádaní som objavil kombináciu moderných technológií, ktoré mi umožnili vytvoriť profesionálny blog prakticky zadarmo. Tradičné hostingové služby často stoja 5-15 EUR mesačne, čo je pre hobby blog neúmerne veľa. Rozhodol som sa preto hľadať alternatívy v cloudových službách, ktoré ponúkajú štedré free tier plány. Moja filozofia bola jasná: minimálne náklady, maximálna funkcionalita a spoľahlivosť. Po výskume som sa rozhodol pre kombináciu statického site generátora a cloudového hostingu. Výsledok? Moderný, rýchly blog za cenu len jednej domény ročne.
 
 ## Použité technológie a náklady
 

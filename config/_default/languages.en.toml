@@ -15,14 +15,14 @@ title = "My hobby blog"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "viku:-)"
+   name = "viktor Kurilla"
    email = "viktor.kurilla@gmail.com"
    image = "img/face_simps_style.jpeg"
    imageQuality = 96
    headline = "I'm only human"
-   bio = "A little bit about you"
+   #bio = "A little bit about you"
    links = [
-     { email = "mailto:hello@your_domain.com" },
+     { email = "mailto:viktor.kurilla@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

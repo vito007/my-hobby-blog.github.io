@@ -6,18 +6,18 @@
     <description>Recent content in Posts on My hobby blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>viktor.kurilla@gmail.com (viku:-))</managingEditor>
-    <webMaster>viktor.kurilla@gmail.com (viku:-))</webMaster>
-    <copyright>© 2025 viku:-)</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 09:44:45 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
+    <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
+    <copyright>© 2025 viktor Kurilla</copyright>
+    <lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Popis</title>
-      <link>http://localhost:1313/posts/popis/</link>
-      <pubDate>Mon, 08 Sep 2025 09:44:45 +0200</pubDate>
-      <author>viktor.kurilla@gmail.com (viku:-))</author>
-      <guid>http://localhost:1313/posts/popis/</guid>
-      <description></description>
+      <title>Ako som si vytvoril lacný blog za 6,89 EUR ročne</title>
+      <link>http://localhost:1313/posts/ako_som_si_vytvoril_blog/</link>
+      <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/ako_som_si_vytvoril_blog/</guid>
+      <description>Kompletný návod ako si vytvoriť moderný blog za cenu len jednej domény ročne pomocou Hugo, Azure Static Web Apps a Cloudflare.</description>
       
     </item>
     
@@ -25,7 +25,7 @@
       <title>Git pre začiatočníkov - Kompletný sprievodca</title>
       <link>http://localhost:1313/posts/git/zaklady/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
-      <author>viktor.kurilla@gmail.com (viku:-))</author>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
       <guid>http://localhost:1313/posts/git/zaklady/</guid>
       <description></description>
       
@@ -35,7 +35,7 @@
       <title>Docker - Kompletný sprievodca pre začiatočníkov</title>
       <link>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <author>viktor.kurilla@gmail.com (viku:-))</author>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
       <guid>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</guid>
       <description></description>
       
@@ -45,7 +45,7 @@
       <title>Kubernetes - Kompletný sprievodca orchestráciou kontajnerov</title>
       <link>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <author>viktor.kurilla@gmail.com (viku:-))</author>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
       <guid>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</guid>
       <description></description>
       
@@ -55,7 +55,7 @@
       <title>Cloudflare Tunnel na OpenMediaVault 6, prístup bez verejnej IP</title>
       <link>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</link>
       <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
-      <author>viktor.kurilla@gmail.com (viku:-))</author>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
       <guid>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</guid>
       <description>&lt;p&gt;Použité technológie&lt;/p&gt;
 &lt;img src=&#34;https://cf-assets.www.cloudflare.com/dzlvafdwdttg/69wNwfiY5mFmgpd9eQFW6j/d5131c08085a977aa70f19e7aada3fa9/1pixel-down__1_.svg&#34;  width=&#34;150&#34; style=display:inline;padding:10px;&gt;
