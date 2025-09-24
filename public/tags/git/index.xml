@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on My hobby blog</title>
-    <link>http://localhost:45419/tags/git/</link>
+    <link>http://localhost:1313/tags/git/</link>
     <description>Recent content in Git on My hobby blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
     <copyright>© 2025 viktor Kurilla</copyright>
-    <lastBuildDate>Thu, 04 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:45419/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Git pre začiatočníkov - Kompletný sprievodca</title>
-      <link>http://localhost:45419/posts/git/zaklady/</link>
+      <link>http://localhost:1313/posts/git/zaklady/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:45419/posts/git/zaklady/</guid>
+      <guid>http://localhost:1313/posts/git/zaklady/</guid>
       <description></description>
       
     </item>

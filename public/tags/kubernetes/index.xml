@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubernetes on My hobby blog</title>
-    <link>http://localhost:45419/tags/kubernetes/</link>
+    <link>http://localhost:1313/tags/kubernetes/</link>
     <description>Recent content in Kubernetes on My hobby blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
     <copyright>© 2025 viktor Kurilla</copyright>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45419/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kubernetes - Kompletný sprievodca orchestráciou kontajnerov</title>
-      <link>http://localhost:45419/posts/kubernetes/kubernetes-orchestracia-sprievodca/</link>
+      <link>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:45419/posts/kubernetes/kubernetes-orchestracia-sprievodca/</guid>
+      <guid>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</guid>
       <description></description>
       
     </item>

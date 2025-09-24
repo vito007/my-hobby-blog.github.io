@@ -2,61 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My hobby blog</title>
-    <link>http://localhost:45419/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My hobby blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
     <copyright>© 2025 viktor Kurilla</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:45419/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Sep 2025 07:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ako nastaviť bash completion v Linuxe</title>
+      <link>http://localhost:1313/posts/linux/linux_bash-completion/</link>
+      <pubDate>Wed, 24 Sep 2025 07:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/linux/linux_bash-completion/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Ako som si vytvoril lacný blog za 6,89 EUR ročne</title>
-      <link>http://localhost:45419/posts/ako_som_si_vytvoril_blog/</link>
+      <link>http://localhost:1313/posts/ako-som-si-vytvoril-lacny-blog-za-6-89-eur-rocne/</link>
       <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:45419/posts/ako_som_si_vytvoril_blog/</guid>
+      <guid>http://localhost:1313/posts/ako-som-si-vytvoril-lacny-blog-za-6-89-eur-rocne/</guid>
       <description>Kompletný návod ako si vytvoriť moderný blog za cenu len jednej domény ročne pomocou Hugo, Azure Static Web Apps a Cloudflare.</description>
       
     </item>
     
     <item>
       <title>Git pre začiatočníkov - Kompletný sprievodca</title>
-      <link>http://localhost:45419/posts/git/zaklady/</link>
+      <link>http://localhost:1313/posts/git/zaklady/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:45419/posts/git/zaklady/</guid>
+      <guid>http://localhost:1313/posts/git/zaklady/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docker - Kompletný sprievodca pre začiatočníkov</title>
-      <link>http://localhost:45419/posts/docker/docker-zaklady-sprievodca/</link>
+      <link>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:45419/posts/docker/docker-zaklady-sprievodca/</guid>
+      <guid>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kubernetes - Kompletný sprievodca orchestráciou kontajnerov</title>
-      <link>http://localhost:45419/posts/kubernetes/kubernetes-orchestracia-sprievodca/</link>
+      <link>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:45419/posts/kubernetes/kubernetes-orchestracia-sprievodca/</guid>
+      <guid>http://localhost:1313/posts/kubernetes/kubernetes-orchestracia-sprievodca/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cloudflare Tunnel na OpenMediaVault 6, prístup bez verejnej IP</title>
-      <link>http://localhost:45419/posts/cloudflare/hugo-cloudflare-tunnel-post/</link>
+      <link>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</link>
       <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:45419/posts/cloudflare/hugo-cloudflare-tunnel-post/</guid>
+      <guid>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</guid>
       <description>&lt;p&gt;Použité technológie&lt;/p&gt;
 &lt;img src=&#34;https://cf-assets.www.cloudflare.com/dzlvafdwdttg/69wNwfiY5mFmgpd9eQFW6j/d5131c08085a977aa70f19e7aada3fa9/1pixel-down__1_.svg&#34;  width=&#34;150&#34; style=display:inline;padding:10px;&gt;
 &lt;img src=&#34;https://www.openmediavault.org/wp-content/uploads/2016/09/header_logo3.png&#34; width=&#34;150&#34; style=display:inline;padding:10px;&gt;
