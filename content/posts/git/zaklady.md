@@ -8,8 +8,6 @@ author: "Učiteľ"
 description: "Kompletný sprievodca pre začiatočníkov - naučte sa základy Gitu krok za krokom s praktickými príkladmi"
 ---
 
-# Git pre začiatočníkov - Kompletný sprievodca
-
 Ahoj! Ako tvoj učiteľ ťa naučím pracovať s Gitom krok za krokom. Git je nástroj na verzovanie kódu - predstav si ho ako "cestovanie v čase" pre tvoje projekty.
 
 ## Krok 1: Čo je Git a prečo ho potrebuješ?
