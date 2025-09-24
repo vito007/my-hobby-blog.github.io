@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Orchestrácia on My hobby blog</title>
+    <title>Orchestrácia on Môj blog</title>
     <link>http://localhost:1313/tags/orchestr%C3%A1cia/</link>
-    <description>Recent content in Orchestrácia on My hobby blog</description>
+    <description>Recent content in Orchestrácia on Môj blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>sk</language>
     <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
     <copyright>© 2025 viktor Kurilla</copyright>

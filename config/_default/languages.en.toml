@@ -1,8 +1,8 @@
-disabled = false
+disabled = true
 languageCode = "en"
 languageName = "English"
-weight = 1
-title = "My hobby blog"
+weight = 2
+title = "My blog"
 
 [params]
   favicon = "favicon.png"
@@ -20,7 +20,7 @@ title = "My hobby blog"
    email = "viktor.kurilla@gmail.com"
    image = "img/face_simps_style.jpeg"
    imageQuality = 96
-   headline = "I'm only human"
+   headline = "Som len človek"
    #bio = "A little bit about you"
    links = [
      { email = "mailto:viktor.kurilla@gmail.com" },

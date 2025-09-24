@@ -1,15 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My hobby blog</title>
+    <title>Tags on Môj blog</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My hobby blog</description>
+    <description>Recent content in Tags on Môj blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>sk</language>
     <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
     <copyright>© 2025 viktor Kurilla</copyright>
-    <lastBuildDate>Wed, 24 Sep 2025 07:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Sep 2025 09:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Devops</title>
+      <link>http://localhost:1313/tags/devops/</link>
+      <pubDate>Wed, 24 Sep 2025 09:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/devops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Wed, 24 Sep 2025 09:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dockerfile</title>
+      <link>http://localhost:1313/tags/dockerfile/</link>
+      <pubDate>Wed, 24 Sep 2025 09:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/dockerfile/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kontajnery</title>
+      <link>http://localhost:1313/tags/kontajnery/</link>
+      <pubDate>Wed, 24 Sep 2025 09:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/kontajnery/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Wed, 24 Sep 2025 09:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Bash</title>
@@ -132,41 +182,11 @@
     </item>
     
     <item>
-      <title>Devops</title>
-      <link>http://localhost:1313/tags/devops/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/devops/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/docker/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>K8s</title>
       <link>http://localhost:1313/tags/k8s/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
       <guid>http://localhost:1313/tags/k8s/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Kontajnery</title>
-      <link>http://localhost:1313/tags/kontajnery/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/kontajnery/</guid>
       <description></description>
       
     </item>

@@ -39,12 +39,12 @@
 #  weight = 20
 
 [[main]]
-  name = "Categories"
+  name = "Kategórie"
   pageRef = "categories"
   weight = 20
 
 [[main]]
-  name = "Tags"
+  name = "Tagy"
   pageRef = "tags"
   weight = 30
 
