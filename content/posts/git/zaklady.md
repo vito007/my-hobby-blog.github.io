@@ -2,8 +2,8 @@
 title: "Git pre začiatočníkov - Kompletný sprievodca"
 date: 2025-09-04T10:00:00+02:00
 draft: false
-tags: ["git", "tutorial", "programovanie", "verzovanie"]
-categories: ["Tutoriály"]
+tags: ["git", "programovanie", "verzovanie"]
+categories: ["Návody", "Technológie"]
 author: "Učiteľ"
 description: "Kompletný sprievodca pre začiatočníkov - naučte sa základy Gitu krok za krokom s praktickými príkladmi"
 ---

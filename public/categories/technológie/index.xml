@@ -9,15 +9,15 @@
     <managingEditor>viktor.kurilla@gmail.com (viktor Kurilla)</managingEditor>
     <webMaster>viktor.kurilla@gmail.com (viktor Kurilla)</webMaster>
     <copyright>© 2025 viktor Kurilla</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/technol%C3%B3gie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Sep 2025 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/technol%C3%B3gie/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Ako som si vytvoril lacný blog za 6,89 EUR ročne</title>
-      <link>http://localhost:1313/posts/ako-som-si-vytvoril-lacny-blog-za-6-89-eur-rocne/</link>
-      <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
+      <title>Git pre začiatočníkov - Kompletný sprievodca</title>
+      <link>http://localhost:1313/posts/git/zaklady/</link>
+      <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/posts/ako-som-si-vytvoril-lacny-blog-za-6-89-eur-rocne/</guid>
-      <description>Kompletný návod ako si vytvoriť moderný blog za cenu len jednej domény ročne pomocou Hugo, Azure Static Web Apps a Cloudflare.</description>
+      <guid>http://localhost:1313/posts/git/zaklady/</guid>
+      <description></description>
       
     </item>
     

@@ -4,7 +4,7 @@ description: "Komplexný návod na Kubernetes pre začiatočníkov s praktickým
 date: 2025-01-15
 draft: false
 tags: ["kubernetes", "k8s", "orchestrácia", "devops", "kontajnery"]
-categories: ["Technológie", "DevOps", "Cloud"]
+categories: ["Technológie"]
 author: "Váš Author"
 slug: "kubernetes-orchestracia-sprievodca"
 toc: true

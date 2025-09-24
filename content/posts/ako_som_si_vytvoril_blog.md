@@ -9,8 +9,7 @@ tags:
   - cloudflare
   - návod
 categories:
-  - technológie
-  - web development
+  - návody
 summary: Kompletný návod ako si vytvoriť moderný blog za cenu len jednej domény ročne pomocou Hugo, Azure Static Web Apps a Cloudflare.
 slug: ako-som-si-vytvoril-lacny-blog-za-6-89-eur-rocne
 ---

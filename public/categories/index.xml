@@ -24,59 +24,9 @@
     <item>
       <title>Technológie</title>
       <link>http://localhost:1313/categories/technol%C3%B3gie/</link>
-      <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/categories/technol%C3%B3gie/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Web Development</title>
-      <link>http://localhost:1313/categories/web-development/</link>
-      <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/categories/web-development/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tutoriály</title>
-      <link>http://localhost:1313/categories/tutori%C3%A1ly/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/categories/tutori%C3%A1ly/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cloud</title>
-      <link>http://localhost:1313/categories/cloud/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/categories/cloud/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>http://localhost:1313/categories/devops/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/categories/devops/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Self-Hosting</title>
-      <link>http://localhost:1313/categories/self-hosting/</link>
-      <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/categories/self-hosting/</guid>
+      <guid>http://localhost:1313/categories/technol%C3%B3gie/</guid>
       <description></description>
       
     </item>

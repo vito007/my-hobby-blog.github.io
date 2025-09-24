@@ -3,8 +3,8 @@ title: "Docker - Kompletný sprievodca pre začiatočníkov"
 description: "Komplexný návod na Docker pre začiatočníkov s praktickými príkladmi. Naučte sa základy kontajnerizácie, networking, volumes a Docker Compose."
 date: 2025-01-15
 draft: false
-tags: ["docker", "kontajnerizácia", "devops", "tutorial"]
-categories: ["Technológie", "DevOps"]
+tags: ["docker", "kontajnery", "devops"]
+categories: ["Návody","Technológie"]
 author: "Váš Author"
 slug: "docker-zaklady-sprievodca"
 toc: true

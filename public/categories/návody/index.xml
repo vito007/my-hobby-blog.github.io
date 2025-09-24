@@ -22,6 +22,36 @@
     </item>
     
     <item>
+      <title>Ako som si vytvoril lacný blog za 6,89 EUR ročne</title>
+      <link>http://localhost:1313/posts/ako-som-si-vytvoril-lacny-blog-za-6-89-eur-rocne/</link>
+      <pubDate>Mon, 08 Sep 2025 10:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/ako-som-si-vytvoril-lacny-blog-za-6-89-eur-rocne/</guid>
+      <description>Kompletný návod ako si vytvoriť moderný blog za cenu len jednej domény ročne pomocou Hugo, Azure Static Web Apps a Cloudflare.</description>
+      
+    </item>
+    
+    <item>
+      <title>Git pre začiatočníkov - Kompletný sprievodca</title>
+      <link>http://localhost:1313/posts/git/zaklady/</link>
+      <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/git/zaklady/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker - Kompletný sprievodca pre začiatočníkov</title>
+      <link>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
+      <guid>http://localhost:1313/posts/docker/docker-zaklady-sprievodca/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Cloudflare Tunnel na OpenMediaVault 6, prístup bez verejnej IP</title>
       <link>http://localhost:1313/posts/cloudflare/hugo-cloudflare-tunnel-post/</link>
       <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>

@@ -122,16 +122,6 @@
     </item>
     
     <item>
-      <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
-      <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/tutorial/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Verzovanie</title>
       <link>http://localhost:1313/tags/verzovanie/</link>
       <pubDate>Thu, 04 Sep 2025 10:00:00 +0200</pubDate>
@@ -172,16 +162,6 @@
     </item>
     
     <item>
-      <title>Kontajnerizácia</title>
-      <link>http://localhost:1313/tags/kontajneriz%C3%A1cia/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/kontajneriz%C3%A1cia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Kontajnery</title>
       <link>http://localhost:1313/tags/kontajnery/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
@@ -207,16 +187,6 @@
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
       <guid>http://localhost:1313/tags/orchestr%C3%A1cia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Odroid</title>
-      <link>http://localhost:1313/tags/odroid/</link>
-      <pubDate>Sat, 05 Oct 2024 15:30:00 +0200</pubDate>
-      <author>viktor.kurilla@gmail.com (viktor Kurilla)</author>
-      <guid>http://localhost:1313/tags/odroid/</guid>
       <description></description>
       
     </item>

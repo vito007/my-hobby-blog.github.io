@@ -2,8 +2,8 @@
 title: "Cloudflare Tunnel na OpenMediaVault 6, prístup bez verejnej IP"
 date: 2024-10-05T15:30:00+02:00
 draft: false
-tags: ["cloudflare", "omv", "docker", "tunnel", "self-hosting", "odroid"]
-categories: ["Návody", "Self-hosting"]
+tags: ["cloudflare", "omv", "docker", "tunnel", "self-hosting"]
+categories: ["Návody"]
 author: "Admin"
 description: "Návod ako nastaviť Cloudflare Tunnel na OpenMediaVault 6 pre bezpečný vzdialený prístup bez potreby verejnej ip adresy."
 featured_image: "/images/cloudflare-omv-docker.jpg"
